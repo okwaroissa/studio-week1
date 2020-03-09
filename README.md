@@ -7,7 +7,7 @@ Listed below are links to different tutorials and resources that you can use to 
 - your 311 incidents feature layer (lab5); 
 - along with two new items that you will need to create, then embed, in your web page: a basic dataset in GeoJSON and a Google map. 
 
-**At the end of the week you will submit a link to your map via Moodle.** See tutorials / instructions below and happy coding!
+**At the end of the week you will submit a link to your web site via Moodle.** See tutorials / instructions below and happy coding!
 
 ## Tutorials / Instructions
 
